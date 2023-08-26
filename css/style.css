@@ -255,14 +255,14 @@
 
 
 
-@media only screen and (max-width:1977px){
+@media only screen and (max-width:1726px){
     .nav-list{
        text-align: center;
        justify-content: center;
     }
     .navbar{
         flex-direction: column;
-        height: 130px;
+        height: 70px;
         position: sticky;
     }
     .rightNav{
